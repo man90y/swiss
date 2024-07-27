@@ -1,0 +1,22 @@
+0 verbose cli /home/rational/.nvm/versions/node/v20.16.0/bin/node /home/rational/.nvm/versions/node/v20.16.0/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@10.8.1
+2 info using node@v20.16.0
+3 silly config load:file:/home/rational/.nvm/versions/node/v20.16.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/rational/.npmrc
+5 silly config load:file:/home/rational/.nvm/versions/node/v20.16.0/etc/npmrc
+6 verbose title npm exec hardhat run scripts/deploy.js --network swisstronik
+7 verbose argv "exec" "--" "hardhat" "run" "scripts/deploy.js" "--network" "swisstronik"
+8 verbose logfile logs-max:10 dir:/home/rational/.npm/_logs/2024-07-27T01_23_22_741Z-
+9 verbose logfile /home/rational/.npm/_logs/2024-07-27T01_23_22_741Z-debug-0.log
+10 silly logfile start cleaning logs, removing 1 files
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 http fetch GET 200 https://registry.npmjs.org/hardhat 1020ms (cache revalidated)
+14 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+15 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+16 verbose cwd /home/rational
+17 verbose os Linux 5.15.153.1-microsoft-standard-WSL2
+18 verbose node v20.16.0
+19 verbose npm  v10.8.1
+20 verbose exit 1
+21 verbose code 1
